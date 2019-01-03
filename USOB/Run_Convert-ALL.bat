@@ -1,0 +1,1 @@
+C:\USOB\pdftotext.exe "C:\USOB\FEUILLES_MATCH\PDF_IN\*.pdf"
